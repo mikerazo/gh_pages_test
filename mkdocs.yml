@@ -1,0 +1,6 @@
+site_name: GH Pages Test
+site_url: https://mikerazo.github.io/gh_pages_test/
+docs_dir: site
+site_dir: _site
+theme: { name: material }
+markdown_extensions: [attr_list, admonition]
